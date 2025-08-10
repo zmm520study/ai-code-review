@@ -1,0 +1,17 @@
+.cache
+.DS_Store
+.idea
+*.log
+*.tgz
+coverage
+dist
+lib-cov
+logs
+node_modules
+temp
+.eslintcache
+.encode_review.yml
+.encode_review.yaml
+.encode_review.yaml,
+.encode_review.json,
+.encode_review.config.js
