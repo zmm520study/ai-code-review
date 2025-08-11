@@ -29,3 +29,7 @@ export function copyDirSync(srcDir, destDir) {
     }
   }
 }
+
+export function getPrFiles(pr) {
+  return pr.files.map((file) => file.filename)
+}
