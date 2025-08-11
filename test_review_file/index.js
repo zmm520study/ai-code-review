@@ -29,3 +29,7 @@ export function copyDirSync(srcDir, destDir) {
     }
   }
 }
+
+
+
+export const hhh = '123'
